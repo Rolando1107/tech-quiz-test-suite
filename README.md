@@ -15,7 +15,7 @@ Before the test suite can be used, the command 'npm install' must be executed in
 ## Usage
 To use, in the terminal at the directory's root, use the command 'npm run start:dev' to build the code and start a dev server. WIth the server running, in another terminal instance, the command 'npm run test' can be used to run cypress component and e2e tests purely through the console, or the command 'npm run cypress' can be used to bring up the cypress GUI where the tests can be run.
 
-A video walkthrough can be found [here]https://1drv.ms/v/c/9b5bc19b15615740/EeGOUiV-WnNDnbfpsdkp4vEBmHZGLuvjlH1QuyCvOJcCVA?e=TAV9Cy
+A video walkthrough can be found here -> https://1drv.ms/v/c/9b5bc19b15615740/EeGOUiV-WnNDnbfpsdkp4vEBmHZGLuvjlH1QuyCvOJcCVA?e=TAV9Cy
 
 ## License
 This application is covered under the [MIT](./LICENSE) license
